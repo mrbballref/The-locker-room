@@ -1,0 +1,10 @@
+{
+  "name": "mobile",
+  "private": true,
+  "main": "expo-router/entry",
+  "dependencies": {
+    "expo": "latest",
+    "react": "19",
+    "react-native": "latest"
+  }
+}
