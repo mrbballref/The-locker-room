@@ -1,0 +1,1 @@
+export default function Downloads(){return (<main><h1>Downloads</h1><p>Manage offline video downloads.</p></main>);}
