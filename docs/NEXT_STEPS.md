@@ -8,3 +8,5 @@ Continue implementation in the following order:
 4. Add build configuration.
 5. Add release documentation.
 6. Run deployment validation.
+7. Prepare source export package.
+8. Verify app-generation tool compatibility.
