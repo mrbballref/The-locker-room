@@ -1,0 +1,9 @@
+{
+  "name": "the-locker-room",
+  "private": true,
+  "workspaces": ["apps/*", "packages/*"],
+  "scripts": {
+    "dev:web": "npm --workspace apps/web run dev",
+    "dev:mobile": "npm --workspace apps/mobile start"
+  }
+}
