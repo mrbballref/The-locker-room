@@ -1,0 +1,1 @@
+export default function HomePage(){ return (<main><h1>The Locker Room</h1><p>RTBO Film Platform</p></main>); }
