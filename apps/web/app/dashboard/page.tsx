@@ -1,0 +1,1 @@
+export default function Dashboard(){return (<main><h1>Dashboard</h1><p>The Locker Room Admin Dashboard</p></main>);}
